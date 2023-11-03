@@ -8,3 +8,4 @@
 usuarrio-id81214293/usuarrio-id81214293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+{"errorFlag":true,"errorInfo":[{"code":"MGW-440","description":"We're sorry, your session is invalid."}]}
